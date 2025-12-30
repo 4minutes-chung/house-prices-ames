@@ -1,5 +1,5 @@
 # Housing Prices — Model Comparison (Ames, Iowa)
-
+The notebook presented results and codes, while the analysis notes includes my findings and interpretations.
 ## Overview
 This project benchmarks linear, regularized, and tree-based models for predicting residential house prices using the Ames Housing dataset, focused on **model comparison and evaluation**.
 
